@@ -25,6 +25,19 @@
         - "Supervisor: Prof. Jee Hyun Choi & Prof. Changyong Song"
         - "Thesis: A Comprehensive Evaluation of the Process of Copying a Complex Figure in Early- and Late-Onset Alzheimer Disease"
 
+- title: Research Interests & Skills
+  type: nested_list
+  contents:
+    - title: Research Interests
+      items:
+        - Dichroism in Resonant X-ray Ptychography & Diffraction
+        - Deep-Learning-Based Data Processing & Analysis
+    - title: Experimental Techniques
+      items:
+        - Coherent Diffraction Imaging (CDI)
+        - Ptychography
+        - Resonant X-ray Diffraction (RXD)
+
 - title: Experience
   type: time_table
   contents:
@@ -93,13 +106,30 @@
   contents:
   - title: "\"Apparatus and Method of Processing Image Copying Test for Evaluating Cognitive Impairment, and Computer Readable Recording Medium\", South Korea, Registration; #1023380710000 (Nov, 2021)."
     year: 2021
-    month: Nov
   - title: "\"METHOD FOR GAME DATA PROCESSING\", South Korea, Registration; #1023339410000 (Dec, 2021)."
     year: 2021
 
-# - title: Conferences
-#   type: time_table
-#   contents:
-#   - title: 
-#     year: 
-#     description: 
+- title: Poster & Oral Presentations
+  type: time_table
+  contents:
+  - title: Detecting Abuser Group in MMORPG by using Ranking System based on Game Transaction Network
+    year: 2019
+    description: Korea Software Congress 2019 (KSC2019)
+  - title: Low Intensity Phase Retrieval Enhanced by Deep Neural Network
+    year: 2020
+    description: The 32nd Synchrotron Radiation Users' Workshop
+  - title: Deep-Learning-Based Denoiser for Phase Recovery of Single-Shot Diffraction Patterns Using XFEL
+    year: 2021
+    description: 2021 Korean Physical Society (KPS) Fall Meeting
+  - title: Multi-distance Coherent Diffraction Imaging for Super-resolution X-ray Microscopy
+    year: 2022
+    description: The 34th Synchrotron Radiation Users' Workshop
+  - title: Deep-Learning-Based Denoiser for Phase Recovery of Singe-Shot Diffraction Signals via X-ray Free Electron Laser
+    year: 2023
+    description: The 3rd PAL-XFEL Users' Meeting
+  - title: Nanoscale three-dimensional network structure of a mesoporous particle unveiled via adaptive multi-distance coherent X-ray tomography
+    year: 2023
+    description: 2023 Korean Physical Society (KPS) Fall Meeting
+  - title: Network analysis of pore structure inside mesoporous particle revealed by multi-distance coherent X-ray tomography
+    year: 2023
+    description: The 35th Synchrotron Radiation Users' Workshop
