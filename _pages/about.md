@@ -11,8 +11,8 @@ profile:
   more_info: >
     <p>Tel: +82-54-279-2688</p>
     <p>77, Cheongam-ro, Nam-gu</p>
-    <p>Pohang-si, Gyeongsangbuk-do, 37673</p>
-    <p>Republic of Korea</p>
+    <p>Pohang-si, Gyeongsangbuk-do</p>
+    <p>37673, Republic of Korea</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
