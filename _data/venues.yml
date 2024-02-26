@@ -1,11 +1,18 @@
 "KSC2019":
   url: https://www.kiise.or.kr/conference/KSC/2019/
 
-"JMIR"
+"JMIR":
   url: https://www.jmir.org/
 
-"ACSNano"
+"ACSNano":
   url: https://pubs.acs.org/journal/ancac3
 
 "PRResearch":
   url: https://journals.aps.org/prresearch/
+
+ "AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#00369f"
+
+"PhysRev":
+  url: https://journals.aps.org/
