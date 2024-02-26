@@ -11,17 +11,17 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph. D. Candidate
+    - title: PhD Candidate
       institution: POSTECH, Pohang, Republic of Korea
-      year: 2020.03 - Current
+      year: Current
       description:
         - "Supervisor: Prof. Changyong Song"
         - "Thesis: TBA"
-    - title: Bachelor of Science in Physics, Minor in Electrical Engineering
+    - title: BSc in Physics, Minor in Electrical Engineering
       institution: POSTECH, Pohang, Republic of Korea
-      year: 2016.03 - 2020.02
+      year: 2020.02
       description:
-        - "$Magna cum laude$"
+        - "Magna cum laude"
         - "Supervisor: Prof. Jee Hyun Choi & Prof. Changyong Song"
         - "Thesis: A Comprehensive Evaluation of the Process of Copying a Complex Figure in Early- and Late-Onset Alzheimer Disease"
 
@@ -30,21 +30,21 @@
   contents:
     - title: Undergraduate Researcher
       institution: Femtosecond X-ray Diffraction & Imaging Laboratory, Department of Physics, POSTECH
-      year: 2019.03 - 2020.02
+      year: "2019.03\n-2020.02"
       description: "Supervisor: Prof. Changyong Song"
 
     - title: Intern
       institution: Machine Learning Team, Columbus Center, Netmarble Corp.
-      year: 2019.06 - 2019.08
+      year: 2019.06-2019.08
 
     - title: Research Trainee
       institution: Convergence Research Center for Diagnosis, Treatment and Care System of Dementia, Brain Science Institute, KIST
-      year: 2018.06 - 2018.08
+      year: 2018.06-2018.08
       description: "Supervisor: Prof. Jee Hyun Choi"
 
     - title: Intern
       institution: Accelerator PnA Team, Accelerator Business Division, Dawonsys Co., Ltd.
-      year: 2017.06 - 2017.08
+      year: 2017.06-2017.08
 
 - title: Scholarships
   type: time_table
@@ -76,3 +76,5 @@
     - title: Graduate Student Excellent Paper Award
       year: 2023
       description: ACS Nano 17, 22488-22498
+
+  - title: Publications
