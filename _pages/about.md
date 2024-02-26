@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://femtox.postech.ac.kr/'>Laboratory Homepage</a>
+subtitle: <a href='https://femtox.postech.ac.kr/'>Group Homepage</a>
 
 profile:
   align: right
