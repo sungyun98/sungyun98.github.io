@@ -4,20 +4,21 @@
     - name: Full Name
       value: Sung Yun Lee
     - name: Date of Birth
-      value: 4th Aug 1998
+      value: 4th Aug, 1998
     - name: Languages
       value: Korean, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD Candidate
+    - title: Ph. D. Candidate
       institution: POSTECH, Pohang, Republic of Korea
       year: Current
       description:
         - "Supervisor: Prof. Changyong Song"
         - "Thesis: TBA"
-    - title: BSc in Physics, Minor in Electrical Engineering
+
+    - title: B. Sc. in Physics, Minor in Electrical Engineering
       institution: POSTECH, Pohang, Republic of Korea
       year: 2020
       description:
@@ -32,6 +33,7 @@
       items:
         - Dichroism in Resonant X-ray Ptychography & Diffraction
         - Deep-Learning-Based Data Processing & Analysis
+
     - title: Experimental Techniques
       items:
         - Coherent Diffraction Imaging (CDI)
@@ -41,20 +43,49 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Teaching Assistant
+      year: 2021
+      description:
+        - 2021 Fall
+        - "PHYS199: Freshman Research Participation"
+
+    - title: Teaching Assistant
+      year: 2021
+      description:
+        - 2021 Spring
+        - "PHYS103: General Physics Laboratory I"
+
+    - title: Teaching Assistant
+      year: 2020
+      description:
+        - 2020 Fall
+        - "PHYS250: Physics Laboratory I"
+
     - title: Undergraduate Researcher
       institution: Femtosecond X-ray Diffraction & Imaging Laboratory, Department of Physics, POSTECH
       year: 2019
-      description: "Supervisor: Prof. Changyong Song"
+      description:
+        - Mar, 2019 - Feb, 2020
+        - "Supervisor: Prof. Changyong Song"
+
     - title: Intern
       institution: Machine Learning Team, Columbus Center, Netmarble Corp.
       year: 2019
+      description:
+        - Jun - Aug, 2019
+
     - title: Research Trainee
       institution: Convergence Research Center for Diagnosis, Treatment and Care System of Dementia, Brain Science Institute, KIST
       year: 2018
-      description: "Supervisor: Prof. Jee Hyun Choi"
+      description:
+        - Jun - Aug, 2018
+        - "Supervisor: Prof. Jee Hyun Choi"
+
     - title: Intern
       institution: Accelerator PnA Team, Accelerator Business Division, Dawonsys Co., Ltd.
       year: 2017
+      description:
+        - Jun - Aug, 2017
 
 - title: Scholarships
   type: time_table
@@ -68,21 +99,27 @@
     - title: Best Bechelor's Thesis Award
       year: 2019
       description: A Comprehensive Evaluation of the Process of Copying a Complex Figure in Early- and Late-Onset Alzheimer Disease
+
     - title: BK21 First Paper Award
       year: 2020
       description: Journal of Medical Internet Research 22, e18136
+
     - title: Graduate Student Excellent Teaching Assistant Award
       year: 2020
       description: "PHYS250: Physics Laboratory I"
+
     - title: Best Poster Award
       year: 2022
       description: The 34th Synchrotron Radiation Users' Workshop
+
     - title: Best Poster Award
       year: 2023
       description: The 3rd PAL-XFEL Users' Meeting
+
     - title: Best Poster Award
       year: 2023
       description: The 35th Synchrotron Radiation Users' Workshop
+
     - title: Graduate Student Excellent Paper Award
       year: 2023
       description: ACS Nano 17, 22488-22498
@@ -92,12 +129,16 @@
   contents:
   - title: "Lee, S. et al., Detecting Abuser Group in MMORPG by using Ranking System based on Game Transaction Network. Proceeding of the Korea Software Congress 2019 (KSC2019), 46(2), 584-586 (2019)."
     year: 2019
+
   - title: "Kim, K. W.† and Lee, S. Y.† et al., A Comprehensive Evaluation of the Process of Copying a Complex Figure in Early- and Late-Onset Alzheimer Disease: A Quantitative Analysis of Digital Pen Data. Journal of Medical Internet Research 22(8), e18136 (2020)."
     year: 2020
+
   - title: "Cho, D. H.† and Shen, Z.† et al., High-Throughput 3D Ensemble Characterization of Individual Core-Shell Nanoparticles with X-ray Free Electron Laser Single-Particle Imaging. ACS Nano 15(3), 4066-4076 (2021)."
     year: 2021
+
   - title: "Lee, S. Y. et al., Denoising low-intensity diffraction signals using k-space deep learning: Applications to phase recovery. Physical Review Research 3(4), 043066 (2021)."
     year: 2021
+
   - title: "Lee, S. Y.†, Cho, D. H.†, and Song, S. C.† et al., Nanoscale Three-Dimensional Network Structure of a Mesoporous Particle Unveiled via Adaptive Multidistance Coherent X-ray Tomography. ACS Nano 17(22), 22488-22498 (2023)."
     year: 2023
 
@@ -106,30 +147,37 @@
   contents:
   - title: "\"Apparatus and Method of Processing Image Copying Test for Evaluating Cognitive Impairment, and Computer Readable Recording Medium\", South Korea, Registration; #1023380710000 (Nov, 2021)."
     year: 2021
+    
   - title: "\"METHOD FOR GAME DATA PROCESSING\", South Korea, Registration; #1023339410000 (Dec, 2021)."
     year: 2021
 
 - title: Poster & Oral Presentations
   type: time_table
   contents:
-  - title: Detecting Abuser Group in MMORPG by using Ranking System based on Game Transaction Network
+  - title: Korea Software Congress 2019 (KSC2019)
     year: 2019
-    description: Korea Software Congress 2019 (KSC2019)
-  - title: Low Intensity Phase Retrieval Enhanced by Deep Neural Network
+    description: Detecting Abuser Group in MMORPG by using Ranking System based on Game Transaction Network
+
+  - title: The 32nd Synchrotron Radiation Users' Workshop
     year: 2020
-    description: The 32nd Synchrotron Radiation Users' Workshop
-  - title: Deep-Learning-Based Denoiser for Phase Recovery of Single-Shot Diffraction Patterns Using XFEL
+    description: Low Intensity Phase Retrieval Enhanced by Deep Neural Network
+
+  - title: 2021 Korean Physical Society (KPS) Fall Meeting
     year: 2021
-    description: 2021 Korean Physical Society (KPS) Fall Meeting
-  - title: Multi-distance Coherent Diffraction Imaging for Super-resolution X-ray Microscopy
+    description: Deep-Learning-Based Denoiser for Phase Recovery of Single-Shot Diffraction Patterns Using XFEL
+
+  - title: The 34th Synchrotron Radiation Users' Workshop
     year: 2022
-    description: The 34th Synchrotron Radiation Users' Workshop
-  - title: Deep-Learning-Based Denoiser for Phase Recovery of Singe-Shot Diffraction Signals via X-ray Free Electron Laser
+    description: Multi-distance Coherent Diffraction Imaging for Super-resolution X-ray Microscopy
+
+  - title: The 3rd PAL-XFEL Users' Meeting
     year: 2023
-    description: The 3rd PAL-XFEL Users' Meeting
-  - title: Nanoscale three-dimensional network structure of a mesoporous particle unveiled via adaptive multi-distance coherent X-ray tomography
+    description: Deep-Learning-Based Denoiser for Phase Recovery of Singe-Shot Diffraction Signals via X-ray Free Electron Laser
+
+  - title: 2023 Korean Physical Society (KPS) Fall Meeting
     year: 2023
-    description: 2023 Korean Physical Society (KPS) Fall Meeting
-  - title: Network analysis of pore structure inside mesoporous particle revealed by multi-distance coherent X-ray tomography
+    description: Nanoscale three-dimensional network structure of a mesoporous particle unveiled via adaptive multi-distance coherent X-ray tomography
+
+  - title: The 35th Synchrotron Radiation Users' Workshop
     year: 2023
-    description: The 35th Synchrotron Radiation Users' Workshop
+    description: Network analysis of pore structure inside mesoporous particle revealed by multi-distance coherent X-ray tomography

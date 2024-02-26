@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://femtox.postech.ac.kr/'>Laboratory Homepage</a>
 
 profile:
   align: right
@@ -20,4 +20,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-TBA
+Hello, I'm graduate student at Physics department at POSTECH, Republic of Korea.
+I'm highly interested in dichroism in resonant X-ray diffractions and deep-learning-based data processing for coherent diffraction imaging (CDI).
