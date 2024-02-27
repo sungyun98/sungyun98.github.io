@@ -19,6 +19,7 @@
       location: Pohang
       year: Current
       description:
+        - "Mar, 2020 - Current"
         - "Supervisor: Prof. Changyong Song"
         - "Thesis: TBA"
 
@@ -27,6 +28,7 @@
       location: Pohang
       year: 2020
       description:
+        - "Mar, 2016 - Feb, 2020"
         - "Magna cum laude"
         - "Supervisor: Prof. Jee Hyun Choi & Prof. Changyong Song"
         - "Thesis: A Comprehensive Evaluation of the Process of Copying a Complex Figure in Early- and Late-Onset Alzheimer Disease"
@@ -55,18 +57,18 @@
       location: Pohang
       year: 2019
       description:
+        - Mar, 2019 - Feb, 2020
         - Femtosecond X-ray Diffraction & Imaging Laboratory, Department of Physics
         - "Supervisor: Prof. Changyong Song"
-        - Mar, 2019 - Feb, 2020
 
     - title: Research Trainee
       institution: KIST
       location: Seoul
       year: 2018
       description:
+        - Jun - Aug, 2018
         - Convergence Research Center for Diagnosis, Treatment and Care System of Dementia, Brain Science Institute
         - "Supervisor: Prof. Jee Hyun Choi"
-        - Jun - Aug, 2018
 
 
 - title: Work Experience
@@ -77,16 +79,16 @@
       location: Seoul
       year: 2019
       description:
-        - Machine Learning Team, Columbus Center
         - Jun - Aug, 2019
+        - Machine Learning Team, Columbus Center
 
     - title: Intern
       institution: Dawonsys Co., Ltd.
       location: Ansan
       year: 2017
       description:
-        - Accelerator PnA Team, Accelerator Business Division
         - Jun - Aug, 2017
+        - Accelerator PnA Team, Accelerator Business Division
 
 
 - title: Teaching Experience
@@ -95,46 +97,46 @@
     - title: Teaching Assistant
       year: 2021
       description:
-        - "PHYS199: Freshman Research Participation"
         - 2021 Fall
+        - "PHYS199: Freshman Research Participation"
 
     - title: Teaching Assistant
       year: 2021
       description:
-        - "PHYS103: General Physics Laboratory I"
         - 2021 Spring
+        - "PHYS103: General Physics Laboratory I"
 
     - title: Teaching Assistant
       year: 2020
       description:
-        - "PHYS250: Physics Laboratory I"
         - 2020 Fall
+        - "PHYS250: Physics Laboratory I"
 
     - title: Student Mentoring Program (SMP)
       year: 2019
       description:
-        - "CSED101: Programming & Problem Solving"
         - 2019 Fall
-
-    - title: Student Mentoring Program (SMP)
-      year: 2018
-      description:
         - "CSED101: Programming & Problem Solving"
-        - 2018 Fall
 
     - title: Student Mentoring Program (SMP)
       year: 2018
       description:
-        - "PHYS101: General Physics I"
+        - 2018 Fall
+        - "CSED101: Programming & Problem Solving"
+
+    - title: Student Mentoring Program (SMP)
+      year: 2018
+      description:
         - 2018 Spring
+        - "PHYS101: General Physics I"
 
     - title: The 13th KOSAF Summer University Student Volunteer Program
       institution: Jeonggok Middle School
       location: Uiryeong
       year: 2016
       description:
-        - Tessellation & Four color theorem
         - Aug, 2016
+        - Tessellation & Four color theorem
 
 
 - title: Scholarships
