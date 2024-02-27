@@ -1,25 +1,29 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Sung Yun Lee
-    - name: Date of Birth
-      value: 4th Aug, 1998
+    - name: Location
+      value: POSTECH, Pohang, Republic of Korea
     - name: Languages
       value: Korean, English
+    - name: Programming Language
+      value: Python (PyTorch), MATLAB, C/C++
 
 - title: Education
   type: time_table
   contents:
     - title: Ph. D. Candidate
-      institution: POSTECH, Pohang, Republic of Korea
+      institution: POSTECH
+      location: Pohang, Republic of Korea
       year: Current
       description:
         - "Supervisor: Prof. Changyong Song"
         - "Thesis: TBA"
 
     - title: B. Sc. in Physics, Minor in Electrical Engineering
-      institution: POSTECH, Pohang, Republic of Korea
+      institution: POSTECH
+      location: Pohang, Republic of Korea
       year: 2020
       description:
         - "Magna cum laude"
@@ -40,7 +44,45 @@
         - Ptychography
         - Resonant X-ray Diffraction (RXD)
 
-- title: Experience
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Research Trainee
+      institution: Convergence Research Center for Diagnosis, Treatment and Care System of Dementia, Brain Science Institute, KIST
+      location: Seoul, Republic of Korea
+      year: 2018
+      description:
+        - Jun - Aug, 2018
+        - "Supervisor: Prof. Jee Hyun Choi"
+
+    - title: Undergraduate Researcher
+      institution: Femtosecond X-ray Diffraction & Imaging Laboratory, Department of Physics, POSTECH
+      location: Pohang, Republic of Korea
+      year: 2019
+      description:
+        - Mar, 2019 - Feb, 2020
+        - "Supervisor: Prof. Changyong Song"
+
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Intern
+      institution: Machine Learning Team, Columbus Center, Netmarble Corp.
+      location: Seoul, Republic of Korea
+      year: 2019
+      description:
+        - Jun - Aug, 2019
+
+    - title: Intern
+      institution: Accelerator PnA Team, Accelerator Business Division, Dawonsys Co., Ltd.
+      location: Ansan, Republic of Korea
+      year: 2017
+      description:
+        - Jun - Aug, 2017
+
+
+- title: Teaching Experience
   type: time_table
   contents:
     - title: Teaching Assistant
@@ -61,31 +103,32 @@
         - 2020 Fall
         - "PHYS250: Physics Laboratory I"
 
-    - title: Undergraduate Researcher
-      institution: Femtosecond X-ray Diffraction & Imaging Laboratory, Department of Physics, POSTECH
+    - title: Student Mentoring Program (SMP)
       year: 2019
       description:
-        - Mar, 2019 - Feb, 2020
-        - "Supervisor: Prof. Changyong Song"
+        - 2019 Fall
+        - "CSED101: Programming & Problem Solving"
 
-    - title: Intern
-      institution: Machine Learning Team, Columbus Center, Netmarble Corp.
-      year: 2019
-      description:
-        - Jun - Aug, 2019
-
-    - title: Research Trainee
-      institution: Convergence Research Center for Diagnosis, Treatment and Care System of Dementia, Brain Science Institute, KIST
+    - title: Student Mentoring Program (SMP)
       year: 2018
       description:
-        - Jun - Aug, 2018
-        - "Supervisor: Prof. Jee Hyun Choi"
+        - 2018 Fall
+        - "CSED101: Programming & Problem Solving"
 
-    - title: Intern
-      institution: Accelerator PnA Team, Accelerator Business Division, Dawonsys Co., Ltd.
-      year: 2017
+    - title: Student Mentoring Program (SMP)
+      year: 2018
       description:
-        - Jun - Aug, 2017
+        - 2018 Spring
+        - "PHYS101: General Physics I"
+
+    - title: The 13th KOSAF Summer University Student Volunteer Program
+      institution: Jeonggok Middle School
+      location: Uiryeong, Republic of Korea
+      year: 2016
+      description:
+        - Aug, 2016
+        - Tessellation & Four color theorem
+
 
 - title: Scholarships
   type: time_table
@@ -93,91 +136,102 @@
     - title: Presidential Science Scholarship
       year: 2016
 
+
 - title: Honors and Awards
   type: time_table
   contents:
-    - title: Best Bechelor's Thesis Award
-      year: 2019
-      description: A Comprehensive Evaluation of the Process of Copying a Complex Figure in Early- and Late-Onset Alzheimer Disease
-
-    - title: BK21 First Paper Award
-      year: 2020
-      description: Journal of Medical Internet Research 22, e18136
-
-    - title: Graduate Student Excellent Teaching Assistant Award
-      year: 2020
-      description: "PHYS250: Physics Laboratory I"
+    - title: Graduate Student Excellent Paper Award
+      year: 2023
+      description: ACS Nano 17, 22488-22498
 
     - title: Best Poster Award
-      year: 2022
-      description: The 34th Synchrotron Radiation Users' Workshop
+      year: 2023
+      description: The 35th Synchrotron Radiation Users' Workshop
 
     - title: Best Poster Award
       year: 2023
       description: The 3rd PAL-XFEL Users' Meeting
 
     - title: Best Poster Award
-      year: 2023
-      description: The 35th Synchrotron Radiation Users' Workshop
+      year: 2022
+      description: The 34th Synchrotron Radiation Users' Workshop
 
-    - title: Graduate Student Excellent Paper Award
-      year: 2023
-      description: ACS Nano 17, 22488-22498
+    - title: Graduate Student Excellent Teaching Assistant Award
+      year: 2020
+      description: "PHYS250: Physics Laboratory I"
+
+    - title: BK21 First Paper Award
+      year: 2020
+      description: Journal of Medical Internet Research 22, e18136
+
+    - title: Best Bechelor's Thesis Award
+      year: 2019
+      description: A Comprehensive Evaluation of the Process of Copying a Complex Figure in Early- and Late-Onset Alzheimer Disease
+
 
 - title: Publications
   type: time_table
   contents:
-  - title: "Lee, S. et al., Detecting Abuser Group in MMORPG by using Ranking System based on Game Transaction Network. Proceeding of the Korea Software Congress 2019 (KSC2019), 46(2), 584-586 (2019)."
-    year: 2019
-
-  - title: "Kim, K. W.† and Lee, S. Y.† et al., A Comprehensive Evaluation of the Process of Copying a Complex Figure in Early- and Late-Onset Alzheimer Disease: A Quantitative Analysis of Digital Pen Data. Journal of Medical Internet Research 22(8), e18136 (2020)."
-    year: 2020
-
-  - title: "Cho, D. H.† and Shen, Z.† et al., High-Throughput 3D Ensemble Characterization of Individual Core-Shell Nanoparticles with X-ray Free Electron Laser Single-Particle Imaging. ACS Nano 15(3), 4066-4076 (2021)."
-    year: 2021
-
-  - title: "Lee, S. Y. et al., Denoising low-intensity diffraction signals using k-space deep learning: Applications to phase recovery. Physical Review Research 3(4), 043066 (2021)."
-    year: 2021
-
-  - title: "Lee, S. Y.†, Cho, D. H.†, and Song, S. C.† et al., Nanoscale Three-Dimensional Network Structure of a Mesoporous Particle Unveiled via Adaptive Multidistance Coherent X-ray Tomography. ACS Nano 17(22), 22488-22498 (2023)."
+  - title: "Nanoscale Three-Dimensional Network Structure of a Mesoporous Particle Unveiled via Adaptive Multidistance Coherent X-ray Tomography"
     year: 2023
+    description: "Sung Yun Lee†, Do Hyung Cho†, Sung Chan Song†, Jaeyong Shin, Junha Hwang, Eunyoung Park, Su Yong Lee, Seongseop Kim, Jinwoo Lee, and Changyong Song*, ACS Nano 17(22), 22488-22498 (2023)."
+
+  - title: "Denoising low-intensity diffraction signals using k-space deep learning: Applications to phase recovery"
+    year: 2021
+    description: "Sung Yun Lee, Do Hyung Cho, Chulho Jung, Daeho Sung, Daewoong Nam, Sangsoo Kim, and Changyong Song*, Physical Review Research 3(4), 043066 (2021)."
+
+  - title: "High-Throughput 3D Ensemble Characterization of Individual Core-Shell Nanoparticles with X-ray Free Electron Laser Single-Particle Imaging"
+    year: 2021
+    description: "Do Hyung Cho†, Zhou Shen†, Yungok Ihm, Dae Han Wi, Chulho Jung, Daewoong Nam, Sangsoo Kim, Sang-Youn Park, Kyung Sook Kim, Daeho Sung, Heemin Lee, Jae-Yong Shin, Junha Hwang, Sung Yun Lee, Su Yong Lee, Sang Woo Han, Do Young Noh, N. Duane Loh*, and Changyong Song*, ACS Nano 15(3), 4066-4076 (2021)."
+
+  - title: "A Comprehensive Evaluation of the Process of Copying a Complex Figure in Early- and Late-Onset Alzheimer Disease: A Quantitative Analysis of Digital Pen Data"
+    year: 2020
+    description: "Ko Woon Kim†, Sung Yun Lee†, Jongdoo Choi, Juhee Chin, Byung Hwa Lee, Duk L. Na*, and Jee Hyun Choi*, Journal of Medical Internet Research 22(8), e18136 (2020)."
+
+  - title: "Detecting Abuser Group in MMORPG by using Ranking System based on Game Transaction Network"
+    year: 2019
+    description: "Lee, S. et al., Proceeding of the Korea Software Congress 2019 (KSC2019), 46(2), 584-586 (2019)."
+
 
 - title: Patents
   type: time_table
   contents:
-  - title: "\"Apparatus and Method of Processing Image Copying Test for Evaluating Cognitive Impairment, and Computer Readable Recording Medium\", South Korea, Registration; #1023380710000 (Nov, 2021)."
+  - title: "METHOD FOR GAME DATA PROCESSING"
     year: 2021
+    description: "South Korea, Registration; #1023339410000 (Dec, 2021)."
+
+  - title: "Apparatus and Method of Processing Image Copying Test for Evaluating Cognitive Impairment, and Computer Readable Recording Medium"
+    year: 2021
+    description: "South Korea, Registration; #1023380710000 (Nov, 2021)."
     
-  - title: "\"METHOD FOR GAME DATA PROCESSING\", South Korea, Registration; #1023339410000 (Dec, 2021)."
-    year: 2021
 
 - title: Poster & Oral Presentations
   type: time_table
   contents:
-  - title: Korea Software Congress 2019 (KSC2019)
-    year: 2019
-    description: Detecting Abuser Group in MMORPG by using Ranking System based on Game Transaction Network
-
-  - title: The 32nd Synchrotron Radiation Users' Workshop
-    year: 2020
-    description: Low Intensity Phase Retrieval Enhanced by Deep Neural Network
-
-  - title: 2021 Korean Physical Society (KPS) Fall Meeting
-    year: 2021
-    description: Deep-Learning-Based Denoiser for Phase Recovery of Single-Shot Diffraction Patterns Using XFEL
-
-  - title: The 34th Synchrotron Radiation Users' Workshop
-    year: 2022
-    description: Multi-distance Coherent Diffraction Imaging for Super-resolution X-ray Microscopy
-
-  - title: The 3rd PAL-XFEL Users' Meeting
+  - title: The 35th Synchrotron Radiation Users' Workshop
     year: 2023
-    description: Deep-Learning-Based Denoiser for Phase Recovery of Singe-Shot Diffraction Signals via X-ray Free Electron Laser
+    description: Network analysis of pore structure inside mesoporous particle revealed by multi-distance coherent X-ray tomography
 
   - title: 2023 Korean Physical Society (KPS) Fall Meeting
     year: 2023
     description: Nanoscale three-dimensional network structure of a mesoporous particle unveiled via adaptive multi-distance coherent X-ray tomography
 
-  - title: The 35th Synchrotron Radiation Users' Workshop
+  - title: The 3rd PAL-XFEL Users' Meeting
     year: 2023
-    description: Network analysis of pore structure inside mesoporous particle revealed by multi-distance coherent X-ray tomography
+    description: Deep-Learning-Based Denoiser for Phase Recovery of Singe-Shot Diffraction Signals via X-ray Free Electron Laser
+
+  - title: The 34th Synchrotron Radiation Users' Workshop
+    year: 2022
+    description: Multi-distance Coherent Diffraction Imaging for Super-resolution X-ray Microscopy
+
+  - title: 2021 Korean Physical Society (KPS) Fall Meeting
+    year: 2021
+    description: Deep-Learning-Based Denoiser for Phase Recovery of Single-Shot Diffraction Patterns Using XFEL
+
+  - title: The 32nd Synchrotron Radiation Users' Workshop
+    year: 2020
+    description: Low Intensity Phase Retrieval Enhanced by Deep Neural Network
+
+  - title: Korea Software Congress 2019 (KSC2019)
+    year: 2019
+    description: Detecting Abuser Group in MMORPG by using Ranking System based on Game Transaction Network
