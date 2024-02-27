@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Tel: +82-54-279-2688</p>
     <p>Dept. of Physics, POSTECH</p>
-    <p>Pohang 37673, Republic of Korea</p>
+    <p>Pohang 37673, KR</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts

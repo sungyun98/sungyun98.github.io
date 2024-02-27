@@ -16,7 +16,7 @@
   contents:
     - title: Ph. D. Candidate
       institution: POSTECH
-      location: Pohang
+      location: Pohang, KR
       year: Current
       description:
         - "Mar, 2020 - Current"
@@ -25,7 +25,7 @@
 
     - title: B. Sc. in Physics, Minor in Electrical Engineering
       institution: POSTECH
-      location: Pohang
+      location: Pohang, KR
       year: 2020
       description:
         - "Mar, 2016 - Feb, 2020"
@@ -53,21 +53,21 @@
   type: time_table
   contents:
     - title: Undergraduate Researcher
-      institution: POSTECH
-      location: Pohang
+      institution: Department of Physics, POSTECH
+      location: Pohang, KR
       year: 2019
       description:
         - Mar, 2019 - Feb, 2020
-        - Femtosecond X-ray Diffraction & Imaging Laboratory, Department of Physics
+        - Femtosecond X-ray Diffraction & Imaging Laboratory
         - "Supervisor: Prof. Changyong Song"
 
     - title: Research Trainee
-      institution: KIST
-      location: Seoul
+      institution: Brain Science Institute, KIST
+      location: Seoul, KR
       year: 2018
       description:
         - Jun - Aug, 2018
-        - Convergence Research Center for Diagnosis, Treatment and Care System of Dementia, Brain Science Institute
+        - Convergence Research Center for Diagnosis, Treatment and Care System of Dementia
         - "Supervisor: Prof. Jee Hyun Choi"
 
 
@@ -76,7 +76,7 @@
   contents:
     - title: Intern
       institution: Netmarble Corp.
-      location: Seoul
+      location: Seoul, KR
       year: 2019
       description:
         - Jun - Aug, 2019
@@ -84,7 +84,7 @@
 
     - title: Intern
       institution: Dawonsys Co., Ltd.
-      location: Ansan
+      location: Ansan, KR
       year: 2017
       description:
         - Jun - Aug, 2017
@@ -95,36 +95,48 @@
   type: time_table
   contents:
     - title: Teaching Assistant
+      institution: POSTECH
+      location: Pohang, KR
       year: 2021
       description:
         - 2021 Fall
         - "PHYS199: Freshman Research Participation"
 
     - title: Teaching Assistant
+      institution: POSTECH
+      location: Pohang, KR
       year: 2021
       description:
         - 2021 Spring
         - "PHYS103: General Physics Laboratory I"
 
     - title: Teaching Assistant
+      institution: POSTECH
+      location: Pohang, KR
       year: 2020
       description:
         - 2020 Fall
         - "PHYS250: Physics Laboratory I"
 
     - title: Student Mentoring Program (SMP)
+      institution: POSTECH
+      location: Pohang, KR
       year: 2019
       description:
         - 2019 Fall
         - "CSED101: Programming & Problem Solving"
 
     - title: Student Mentoring Program (SMP)
+      institution: POSTECH
+      location: Pohang, KR
       year: 2018
       description:
         - 2018 Fall
         - "CSED101: Programming & Problem Solving"
 
     - title: Student Mentoring Program (SMP)
+      institution: POSTECH
+      location: Pohang, KR
       year: 2018
       description:
         - 2018 Spring
@@ -132,7 +144,7 @@
 
     - title: The 13th KOSAF Summer University Student Volunteer Program
       institution: Jeonggok Middle School
-      location: Uiryeong
+      location: Uiryeong, KR
       year: 2016
       description:
         - Aug, 2016
@@ -150,30 +162,37 @@
   type: time_table
   contents:
     - title: Graduate Student Excellent Paper Award
+      institution: Dept. of Physics, POSTECH
       year: 2023
-      description: ACS Nano 17, 22488-22498
+      description:  ACS Nano 17, 22488-22498
 
     - title: Best Poster Award
+      institution: KOSUA
       year: 2023
       description: The 35th Synchrotron Radiation Users' Workshop
 
     - title: Best Poster Award
+      institution: KOSUA
       year: 2023
       description: The 3rd PAL-XFEL Users' Meeting
 
     - title: Best Poster Award
+      institution: KOSUA
       year: 2022
       description: The 34th Synchrotron Radiation Users' Workshop
 
     - title: Graduate Student Excellent Teaching Assistant Award
+      institution: Dept. of Physics, POSTECH
       year: 2020
       description: "PHYS250: Physics Laboratory I"
 
     - title: BK21 First Paper Award
+      institution: Dept. of Physics, POSTECH
       year: 2020
       description: Journal of Medical Internet Research 22, e18136
 
     - title: Best Bechelor's Thesis Award
+      institution: Dept. of Physics, POSTECH
       year: 2019
       description: A Comprehensive Evaluation of the Process of Copying a Complex Figure in Early- and Late-Onset Alzheimer Disease
 
@@ -218,33 +237,41 @@
   type: time_table
   contents:
   - title: American Physical Society (APS) March Meeting 2024
+    location: Minneapolis, US
     year: 2024
     description: Nanoscale X-ray Tomography of Mesoporous Particle Improved via Adaptive Multidistance Coherent Diffraction Imaging
 
   - title: The 35th Synchrotron Radiation Users' Workshop
+    location: Pohang, KR
     year: 2023
     description: Network analysis of pore structure inside mesoporous particle revealed by multi-distance coherent X-ray tomography
 
   - title: 2023 Korean Physical Society (KPS) Fall Meeting
+    location: Changwon, KR
     year: 2023
     description: Nanoscale three-dimensional network structure of a mesoporous particle unveiled via adaptive multi-distance coherent X-ray tomography
 
   - title: The 3rd PAL-XFEL Users' Meeting
+    location: Pohang, KR
     year: 2023
     description: Deep-Learning-Based Denoiser for Phase Recovery of Singe-Shot Diffraction Signals via X-ray Free Electron Laser
 
   - title: The 34th Synchrotron Radiation Users' Workshop
+    location: Pohang, KR
     year: 2022
     description: Multi-distance Coherent Diffraction Imaging for Super-resolution X-ray Microscopy
 
   - title: 2021 Korean Physical Society (KPS) Fall Meeting
+    location: Virtual
     year: 2021
     description: Deep-Learning-Based Denoiser for Phase Recovery of Single-Shot Diffraction Patterns Using XFEL
 
   - title: The 32nd Synchrotron Radiation Users' Workshop
+    location: Pohang, KR
     year: 2020
     description: Low Intensity Phase Retrieval Enhanced by Deep Neural Network
 
   - title: Korea Software Congress 2019 (KSC2019)
+    location: Pyeongchang, KR
     year: 2019
     description: Detecting Abuser Group in MMORPG by using Ranking System based on Game Transaction Network
