@@ -10,6 +10,7 @@
     - name: Programming Language
       value: Python (PyTorch), MATLAB, C/C++
 
+
 - title: Education
   type: time_table
   contents:
@@ -30,6 +31,7 @@
         - "Supervisor: Prof. Jee Hyun Choi & Prof. Changyong Song"
         - "Thesis: A Comprehensive Evaluation of the Process of Copying a Complex Figure in Early- and Late-Onset Alzheimer Disease"
 
+
 - title: Research Interests & Skills
   type: nested_list
   contents:
@@ -44,17 +46,10 @@
         - Ptychography
         - Resonant X-ray Diffraction (RXD)
 
+
 - title: Research Experience
   type: time_table
   contents:
-    - title: Research Trainee
-      institution: Convergence Research Center for Diagnosis, Treatment and Care System of Dementia, Brain Science Institute, KIST
-      location: Seoul
-      year: 2018
-      description:
-        - Jun - Aug, 2018
-        - "Supervisor: Prof. Jee Hyun Choi"
-
     - title: Undergraduate Researcher
       institution: Femtosecond X-ray Diffraction & Imaging Laboratory, Department of Physics, POSTECH
       location: Pohang
@@ -62,6 +57,14 @@
       description:
         - Mar, 2019 - Feb, 2020
         - "Supervisor: Prof. Changyong Song"
+
+    - title: Research Trainee
+      institution: Convergence Research Center for Diagnosis, Treatment and Care System of Dementia, Brain Science Institute, KIST
+      location: Seoul
+      year: 2018
+      description:
+        - Jun - Aug, 2018
+        - "Supervisor: Prof. Jee Hyun Choi"
 
 
 - title: Work Experience
