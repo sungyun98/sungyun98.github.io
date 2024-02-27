@@ -3,8 +3,8 @@
   contents:
     - name: Name
       value: Sung Yun Lee
-    - name: Location
-      value: POSTECH, Pohang, Republic of Korea
+    - name: Institution
+      value: POSTECH
     - name: Languages
       value: Korean, English
     - name: Programming Language
@@ -15,7 +15,7 @@
   contents:
     - title: Ph. D. Candidate
       institution: POSTECH
-      location: Pohang, Republic of Korea
+      location: Pohang
       year: Current
       description:
         - "Supervisor: Prof. Changyong Song"
@@ -23,7 +23,7 @@
 
     - title: B. Sc. in Physics, Minor in Electrical Engineering
       institution: POSTECH
-      location: Pohang, Republic of Korea
+      location: Pohang
       year: 2020
       description:
         - "Magna cum laude"
@@ -49,7 +49,7 @@
   contents:
     - title: Research Trainee
       institution: Convergence Research Center for Diagnosis, Treatment and Care System of Dementia, Brain Science Institute, KIST
-      location: Seoul, Republic of Korea
+      location: Seoul
       year: 2018
       description:
         - Jun - Aug, 2018
@@ -57,7 +57,7 @@
 
     - title: Undergraduate Researcher
       institution: Femtosecond X-ray Diffraction & Imaging Laboratory, Department of Physics, POSTECH
-      location: Pohang, Republic of Korea
+      location: Pohang
       year: 2019
       description:
         - Mar, 2019 - Feb, 2020
@@ -69,14 +69,14 @@
   contents:
     - title: Intern
       institution: Machine Learning Team, Columbus Center, Netmarble Corp.
-      location: Seoul, Republic of Korea
+      location: Seoul
       year: 2019
       description:
         - Jun - Aug, 2019
 
     - title: Intern
       institution: Accelerator PnA Team, Accelerator Business Division, Dawonsys Co., Ltd.
-      location: Ansan, Republic of Korea
+      location: Ansan
       year: 2017
       description:
         - Jun - Aug, 2017
@@ -123,7 +123,7 @@
 
     - title: The 13th KOSAF Summer University Student Volunteer Program
       institution: Jeonggok Middle School
-      location: Uiryeong, Republic of Korea
+      location: Uiryeong
       year: 2016
       description:
         - Aug, 2016
@@ -208,6 +208,10 @@
 - title: Poster & Oral Presentations
   type: time_table
   contents:
+  - title: American Physical Society (APS) March Meeting 2024
+    year: 2024
+    description: Nanoscale X-ray Tomography of Mesoporous Particle Improved via Adaptive Multidistance Coherent Diffraction Imaging
+
   - title: The 35th Synchrotron Radiation Users' Workshop
     year: 2023
     description: Network analysis of pore structure inside mesoporous particle revealed by multi-distance coherent X-ray tomography
