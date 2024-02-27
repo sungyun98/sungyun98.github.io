@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications by categories in reversed chronological order. '†' represents co-first author, and '*' represents corresponding author.
+description: '†' represents co-first author, and '*' represents corresponding author.
 nav: true
 nav_order: 2
 ---
