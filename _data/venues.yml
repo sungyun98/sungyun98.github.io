@@ -5,7 +5,13 @@
   url: https://www.jmir.org/
 
 "ACSNano":
-  url: https://pubs.acs.org/journal/ancac3
+  url: https://pubs.acs.org/journal/ancac3/
 
 "PRResearch":
   url: https://journals.aps.org/prresearch/
+
+"JSR":
+  url: https://journals.iucr.org/s/
+
+"SciAdv":
+  url: https://www.science.org/journal/sciadv/
