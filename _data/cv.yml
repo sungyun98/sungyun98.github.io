@@ -202,9 +202,13 @@
 - title: Publications
   type: time_table
   contents:
+  - title: "Inverted nucleation for photoinduced nonequilibrium melting"
+    year: 2024
+    description: "Junha Hwang†, Yungok Ihm†, Daewoong Nam, Jaeyong Shin, Eunyoung Park, Sung Yun Lee, Heemin Lee, Seung-Phil Heo, Sangsoo Kim, Je Young Ahn, Ji Hoon Shim, Minseok Kim, Intae Eom, Do Young Noh, and Changyong Song*, Science Advances 10(18), eadl6409 (2024)."
+
   - title: "Development of the multiplex imaging chamber at PAL-XFEL"
     year: 2024
-    description: "Junha Hwang, Sejin Kim, Sung Yun Lee, Eunyoung Park, Jaeyong Shin, Jae Hyuk Lee, Myong-jin Kim, Seonghan Kim, Sang-Youn Park, Dogeun Jang, Intae Eom, Sangsoo Kim, Changyong Song, Kyung Sook Kim*, and Daewoong Nam*, Journal of Synchrotron Radiation 31(3), XXX (2024)."
+    description: "Junha Hwang, Sejin Kim, Sung Yun Lee, Eunyoung Park, Jaeyong Shin, Jae Hyuk Lee, Myong-jin Kim, Seonghan Kim, Sang-Youn Park, Dogeun Jang, Intae Eom, Sangsoo Kim, Changyong Song, Kyung Sook Kim*, and Daewoong Nam*, Journal of Synchrotron Radiation 31(3), 469-477 (2024)."
 
   - title: "Nanoscale Three-Dimensional Network Structure of a Mesoporous Particle Unveiled via Adaptive Multidistance Coherent X-ray Tomography"
     year: 2023
