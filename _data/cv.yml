@@ -154,13 +154,13 @@
 - title: Scholarships
   type: time_table
   contents:
-    - title: Presidential Science Scholarship
-      institution: Ministry of Science, ICT and Future Planning
-      year: 2016
-
     - title: POSTECHIAN Fellowship - Innovation
       institution: POSTECH
       year: 2024
+
+    - title: Presidential Science Scholarship
+      institution: Ministry of Science, ICT and Future Planning
+      year: 2016
 
 
 - title: Honors and Awards
