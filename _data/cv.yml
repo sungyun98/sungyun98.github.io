@@ -205,6 +205,10 @@
 - title: Publications
   type: time_table
   contents:
+  - title: "Off-Axis X-Ray Vortex Beam Ptychography"
+    year: 2024
+    description: "Sung Yun Lee, Eunyoung Park, Sinwoo Kim, Euije Jo, Su Yong Lee, Jun Woo Choi, and Changyong Song*, ACS Photonics XXXX(XXX), XXX-XXX (2024).""
+
   - title: "Inverted nucleation for photoinduced nonequilibrium melting"
     year: 2024
     description: "Junha Hwang†, Yungok Ihm†, Daewoong Nam, Jaeyong Shin, Eunyoung Park, Sung Yun Lee, Heemin Lee, Seung-Phil Heo, Sangsoo Kim, Je Young Ahn, Ji Hoon Shim, Minseok Kim, Intae Eom, Do Young Noh, and Changyong Song*, Science Advances 10(18), eadl6409 (2024)."
