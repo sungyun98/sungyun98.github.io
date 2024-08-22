@@ -39,14 +39,13 @@
   contents:
     - title: Research Interests
       items:
-        - Dichroism in Resonant X-ray Ptychography & Diffraction
-        - Deep-Learning-Based Data Processing & Analysis
+        - Dichroism in X-ray Diffraction
+        - Deep-Learning-Based Data Processing
 
     - title: Experimental Techniques
       items:
-        - Coherent Diffraction Imaging (CDI)
-        - Ptychography
-        - Resonant X-ray Diffraction (RXD)
+        - Coherent Diffraction Imaging & Ptychography
+        - Resonant X-ray Diffraction
 
 
 - title: Research Experience
