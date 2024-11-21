@@ -166,22 +166,27 @@
   type: time_table
   contents:
     - title: Graduate Student Excellent Paper Award
+      institution: Korean Synchrotron Radiation Users' Association (KOSUA)
+      year: 2024
+      description: Physical Review Research 2021, ACS Nano 2023, ACS Photonics 2024
+
+    - title: Graduate Student Excellent Paper Award
       institution: Dept. of Physics, POSTECH
       year: 2023
-      description: ACS Nano 17, 22488-22498
+      description: ACS Nano 2023
 
     - title: Best Poster Award
-      institution: KOSUA
+      institution: Korean Synchrotron Radiation Users' Association (KOSUA)
       year: 2023
       description: The 35th Synchrotron Radiation Users' Workshop
 
     - title: Best Poster Award
-      institution: KOSUA
+      institution: Korean Synchrotron Radiation Users' Association (KOSUA)
       year: 2023
       description: The 3rd PAL-XFEL Users' Meeting
 
     - title: Best Poster Award
-      institution: KOSUA
+      institution: Korean Synchrotron Radiation Users' Association (KOSUA)
       year: 2022
       description: The 34th Synchrotron Radiation Users' Workshop
 
@@ -193,7 +198,7 @@
     - title: BK21 First Paper Award
       institution: Dept. of Physics, POSTECH
       year: 2020
-      description: Journal of Medical Internet Research 22, e18136
+      description: Journal of Medical Internet Research 2020
 
     - title: Best Bechelor's Thesis Award
       institution: Dept. of Physics, POSTECH
@@ -252,6 +257,13 @@
 - title: Poster & Oral Presentations
   type: time_table
   contents:
+  - title: The 35th Synchrotron Radiation Users' Workshop
+    location: Pohang, KR
+    year: 2024
+    description:
+      - Poster
+      - "Title: Off-axis X-ray vortex beam ptychography"
+
   - title: American Physical Society (APS) March Meeting 2024
     location: Minneapolis, US
     year: 2024
