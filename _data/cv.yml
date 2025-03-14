@@ -209,6 +209,14 @@
 - title: Publications
   type: time_table
   contents:
+  - title: "Deep-learning real-time phase retrieval of imperfect diffraction patterns from X-ray free-electron lasers"
+    year: 2025
+    description: "Sung Yun Lee, Do Hyung Cho, Chulho Jung, Daeho Sung, Daewoong Nam, Sangsoo Kim, and Changyong Song*, npj Computational Materials 11, 68 (2025)."
+
+  - title: "Development of the Nanobeam X-ray Experiments instrument at PAL-XFEL"
+    year: 2025
+    description: "Jangwoo Kim†, HyoJung Hyun†, Seonghan Kim, Sun Min Hwang, Myong-Jin Kim, Dogeun Jang, Kyung Sook Kim, Jaeyong Shin, Sejin Kim, Junha Hwang, Sung Yun Lee, Eunyoung Park, Sangsoo Kim, Intae Eom, Changyong Song, and Daewoong Nam*, Journal of Synchrotron Radiation 32(2), 466-473 (2025)."
+
   - title: "Off-Axis X-Ray Vortex Beam Ptychography"
     year: 2024
     description: "Sung Yun Lee, Eunyoung Park, Sinwoo Kim, Euije Jo, Su Yong Lee, Jun Woo Choi, and Changyong Song*, ACS Photonics 11(9), 3804-3810 (2024)."
