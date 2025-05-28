@@ -19,5 +19,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Sung Yun Lee, graduate student at Dept. of Physics, POSTECH.
-I'm interested in dichroism in X-ray diffraction and deep-learning-based data processing for coherent diffraction imaging.
+Hello, I'm Sung Yun Lee, Ph. D. candidate at Dept. of Physics, POSTECH.
+I'm interested in dichroism in resonant X-ray diffraction and deep-learning-based data processing for coherent diffraction imaging.
