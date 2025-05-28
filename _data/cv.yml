@@ -37,12 +37,12 @@
   contents:
     - title: Research Interests
       items:
-        - Dichroism in resonant X-ray diffraction
+        - Dichroism in resonant X-ray diffraction & ptychography
         - Deep-learning-based data processing for coherent diffraction imaging
 
     - title: Experimental Techniques
       items:
-        - Coherent diffraction imaging including ptychography and in Bragg geometry
+        - Coherent diffraction imaging & ptychography
         - Resonant X-ray diffraction
 
 
