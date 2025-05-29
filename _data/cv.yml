@@ -6,7 +6,7 @@
     - name: Languages
       value: Korean, English
     - name: Programming Language
-      value: Python (PyTorch), MATLAB, C/C++
+      value: Python (PyTorch), MATLAB, C/C++, LabVIEW
 
 
 - title: Education

@@ -1,26 +1,26 @@
-"KSC2019":
+"ksc2019":
   url: https://www.kiise.or.kr/conference/KSC/2019/
 
-"JMIR":
+"jmir":
   url: https://www.jmir.org/
 
-"ACSNano":
+"acsnano":
   url: https://pubs.acs.org/journal/ancac3/
 
-"PRResearch":
+"prresearch":
   url: https://journals.aps.org/prresearch/
 
-"JSR":
+"jsr":
   url: https://journals.iucr.org/s/
 
-"SciAdv":
+"sciadv":
   url: https://www.science.org/journal/sciadv/
 
-"ACSPhotonics":
+"acsphot":
   url: https://pubs.acs.org/journal/apchd5/
 
-"npjCompuMats":
+"npjcompumats":
   url: https://www.nature.com/npjcompumats/
 
-"NatCommun":
+"ncomms":
   url: https://www.nature.com/ncomms/
