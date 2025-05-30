@@ -318,23 +318,12 @@
               role="button"
             >
               <img
-                src="https://img.shields.io/badge/scholar-{% site.data.socials.scholar_userid entry.google_scholar_id %}-4285F4?logo=googlescholar&labelColor=beige"
-                alt="{% site.data.socials.scholar_userid entry.google_scholar_id %} Google Scholar"
+                src="https://img.shields.io/badge/scholar-🔗-4285F4?logo=googlescholar&labelColor=beige"
+                alt="Google Scholar"
               >
             </a>
           {% endif %}
-          {% if site.enable_publication_badges.inspirehep and entry_has_inspirehep_badge %}
-            <a
-              href="https://inspirehep.net/literature/{{ entry.inspirehep_id }}"
-              aria-label="Inspirehep link"
-              role="button"
-            >
-              <img
-                src="https://img.shields.io/badge/inspire-{% inspirehep_citations entry.inspirehep_id %}-001628?logo=inspire&logoColor=001628&labelColor=beige"
-                alt="{% inspirehep_citations entry.inspirehep_id %} InspireHEP citations"
-              >
-            </a>
-          {% endif %}
+          
         </div>
       {% endif %}
     {% endif %}
