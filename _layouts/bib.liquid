@@ -218,8 +218,6 @@
           {% if site.enable_publication_badges.altmetric and entry_has_altmetric_badge %}
             <span
               class="altmetric-embed"
-              data-hide-no-mentions="false"
-              data-hide-less-than="0"
               data-badge-type="2"
               data-badge-popover="right"
               {% if entry.eprint %}
@@ -245,7 +243,6 @@
               {% else %}
                 data-id="{{ entry.dimensions }}"
               {% endif %}
-              data-hide-zero-citations="false"
               data-style="small_rectangle"
               data-legend="hover-right"
               style="margin-bottom: 3px;"
