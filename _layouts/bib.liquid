@@ -270,10 +270,6 @@
         {% assign entry_has_google_scholar_badge = true %}
       {% endif %}
 
-      {% assign entry_has_inspirehep_badge = false %}
-      {% if entry.inspirehep_id %}
-        {% assign entry_has_inspirehep_badge = true %}
-      {% endif %}
       {% if entry_has_altmetric_badge or entry_has_dimensions_badge or entry_has_google_scholar_badge or entry_has_inspirehep_badge %}
         <div class="badges">
           {% if site.enable_publication_badges.altmetric and entry_has_altmetric_badge %}
@@ -318,12 +314,11 @@
               role="button"
             >
               <img
-                src="https://img.shields.io/badge/scholar-🔗-4285F4?logo=googlescholar&labelColor=beige"
-                alt="Google Scholar"
+                src="https://img.shields.io/badge/google-scholar-4285F4?logo=googlescholar&labelColor=beige"
+                alt="{% site.data.socials.scholar_userid entry.google_scholar_id %} Google Scholar link"
               >
             </a>
           {% endif %}
-          
         </div>
       {% endif %}
     {% endif %}
