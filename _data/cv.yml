@@ -32,7 +32,7 @@
         - "Thesis: A Comprehensive Evaluation of the Process of Copying a Complex Figure in Early- and Late-Onset Alzheimer Disease"
 
 
-- title: Research Interests & Skills
+- title: Research Interests & Experimental Techniques
   type: nested_list
   contents:
     - title: Research Interests
@@ -55,7 +55,7 @@
       year: 2025
       description:
         - Sep, 2025 - Current
-        - "Center for Ultrafast Science on Quantum Matter (Principal investigator: Prof. Changyong Song)"
+        - "Center for Ultrafast Science on Quantum Matter (PI: Prof. Changyong Song)"
 
     - title: Participating Researcher (as a graduate student)
       institution: Department of Physics, POSTECH
@@ -63,15 +63,7 @@
       year: 2025
       description:
         - Mar, 2020 - Aug, 2025
-        - "Femtosecond X-ray Diffraction & Imaging Laboratory (Principal investigator: Prof. Changyong Song)"
-      items:
-        -	Time-resolved multiplexing X-ray measurement (small-angle X-ray scattering + wide-angle X-ray scattering + X-ray emission spectroscopy) @ PAL-XFEL
-        -	Time-resolved coherent X-ray diffraction imaging @ PAL-XFEL
-        -	Time-resolved X-ray diffraction @ PAL-XFEL
-        -	X-ray Bragg ptychography @ ESRF
-        -	X-ray ptychography + X-ray fluorescence @ PLS-II (with circularly polarized beam by diamond phase retarder and vortex beam by spiral zone plate)
-        -	Coherent X-ray diffraction imaging @ PLS-II
-        -	Scanning transmission X-ray microscopy @ PLS-II (with circularly polarized beam by elliptically polarizing undulator)
+        - "Femtosecond X-ray Diffraction & Imaging Laboratory (PI: Prof. Changyong Song)"
 
     - title: Undergraduate Researcher
       institution: Department of Physics, POSTECH
@@ -79,7 +71,7 @@
       year: 2019
       description:
         - Mar, 2019 - Feb, 2020
-        - "Femtosecond X-ray Diffraction & Imaging Laboratory (Principal investigator: Prof. Changyong Song)"
+        - "Femtosecond X-ray Diffraction & Imaging Laboratory (PI: Prof. Changyong Song)"
 
     - title: Intern
       institution: Netmarble Corp.
@@ -166,25 +158,17 @@
         - "Topic: Tessellation & Four color theorem"
 
 
-- title: Honors
-  type: time_table
-  contents:
-    - title: POSTECHIAN Fellowship - Innovation
-      institution: POSTECH
-      year: 2024
-
-    - title: Presidential Science Scholarship
-      institution: Ministry of Science, ICT and Future Planning
-      year: 2016
-
-
-- title: Awards
+- title: Hornors & Awards
   type: time_table
   contents:
     - title: Graduate Student Excellent Paper Award
       institution: Korean Synchrotron Radiation Users' Association (KOSUA)
       year: 2024
       description: Physical Review Research 2021, ACS Nano 2023, ACS Photonics 2024
+
+    - title: POSTECHIAN Fellowship - Innovation
+      institution: POSTECH
+      year: 2024
 
     - title: Graduate Student Excellent Paper Award
       institution: Dept. of Physics, POSTECH
@@ -220,6 +204,10 @@
       institution: Dept. of Physics, POSTECH
       year: 2019
       description: A Comprehensive Evaluation of the Process of Copying a Complex Figure in Early- and Late-Onset Alzheimer Disease
+
+    - title: Presidential Science Scholarship
+      institution: Ministry of Science, ICT and Future Planning
+      year: 2016
 
 
 - title: Publications
@@ -275,11 +263,11 @@
   contents:
   - title: "Apparatus and Method of Processing Image Copying Test for Evaluating Cognitive Impairment, and Computer Readable Recording Medium"
     year: 2021
-    description: "KR, Registration; #1023380710000 (Dec, 2021)."
+    description: "KR, Registration; #10-2338071-00-00 (Dec, 2021)."
 
   - title: "METHOD FOR GAME DATA PROCESSING"
     year: 2021
-    description: "KR, Registration; #1023339410000 (Nov, 2021)."
+    description: "KR, Registration; #10-2333941-00-00 (Nov, 2021)."
     
 
 - title: Poster & Oral Presentations
