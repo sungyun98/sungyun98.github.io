@@ -64,13 +64,14 @@
       description:
         - Mar, 2020 - Aug, 2025
         - "Femtosecond X-ray Diffraction & Imaging Laboratory (Principal investigator: Prof. Changyong Song)"
-          -	Time-resolved multiplexing X-ray measurement (small-angle X-ray scattering + wide-angle X-ray scattering + X-ray emission spectroscopy) @ PAL-XFEL
-          -	Time-resolved coherent X-ray diffraction imaging @ PAL-XFEL
-          -	Time-resolved X-ray diffraction @ PAL-XFEL
-          -	X-ray Bragg ptychography @ ESRF
-          -	X-ray ptychography + X-ray fluorescence @ PLS-II (with circularly polarized beam by diamond phase retarder and vortex beam by spiral zone plate)
-          -	Coherent X-ray diffraction imaging @ PLS-II
-          -	Scanning transmission X-ray microscopy @ PLS-II (with circularly polarized beam by elliptically polarizing undulator)
+      items:
+        -	Time-resolved multiplexing X-ray measurement (small-angle X-ray scattering + wide-angle X-ray scattering + X-ray emission spectroscopy) @ PAL-XFEL
+        -	Time-resolved coherent X-ray diffraction imaging @ PAL-XFEL
+        -	Time-resolved X-ray diffraction @ PAL-XFEL
+        -	X-ray Bragg ptychography @ ESRF
+        -	X-ray ptychography + X-ray fluorescence @ PLS-II (with circularly polarized beam by diamond phase retarder and vortex beam by spiral zone plate)
+        -	Coherent X-ray diffraction imaging @ PLS-II
+        -	Scanning transmission X-ray microscopy @ PLS-II (with circularly polarized beam by elliptically polarizing undulator)
 
     - title: Undergraduate Researcher
       institution: Department of Physics, POSTECH
