@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Tel: +82-54-279-2688</p>
-    <p>Ultrafast Science on Quantum Matter</p>
+    <p>Center for Ultrafast Science on Quantum Matter</p>
     <p>Max Planck POSTECH/Korea Research Initiative</p>
     <p>Pohang 37673, KR</p>
 
