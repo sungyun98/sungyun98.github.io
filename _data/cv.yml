@@ -12,7 +12,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph. D. in Physics
+    - title: Ph.D. in Physics
       institution: POSTECH
       location: Pohang, KR
       year: 2025
@@ -21,7 +21,7 @@
         - "Advisor: Prof. Changyong Song"
         - "Thesis: Development of functional coherent X-ray nanoimaging with deep-learning methods"
 
-    - title: B. Sc. in Physics, Minor in Electrical Engineering
+    - title: B.Sc. in Physics, Minor in Electrical Engineering
       institution: POSTECH
       location: Pohang, KR
       year: 2020
