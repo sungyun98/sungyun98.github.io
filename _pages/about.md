@@ -19,5 +19,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Sung Yun Lee, a postdoctoral researcher at Center for Ultrafast Science on Quantum Matter in Max Planck POSTECH/Korea Research Initiative.
+Hello, I'm Sung Yun Lee, a postdoctoral researcher at Center for Ultrafast Science on Quantum Matter, Max Planck POSTECH/Korea Research Initiative.
 I'm interested in dichroism in resonant X-ray diffraction and deep-learning-based data processing for coherent diffraction imaging.
