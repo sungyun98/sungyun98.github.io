@@ -1,9 +1,29 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ksc2019":
+  url: https://www.kiise.or.kr/conference/KSC/2019/
 
-"PhysRev":
-  url: https://journals.aps.org/
+"jmir":
+  url: https://www.jmir.org/
 
-"Vision":
-  color: "#009f36"
+"acsnano":
+  url: https://pubs.acs.org/journal/ancac3/
+
+"prresearch":
+  url: https://journals.aps.org/prresearch/
+
+"jsr":
+  url: https://journals.iucr.org/s/
+
+"sciadv":
+  url: https://www.science.org/journal/sciadv/
+
+"acsphot":
+  url: https://pubs.acs.org/journal/apchd5/
+
+"npjcompumats":
+  url: https://www.nature.com/npjcompumats/
+
+"thesis":
+  url: https://www.postech.ac.kr/
+
+"ncomms":
+  url: https://www.nature.com/ncomms/

@@ -1,189 +1,353 @@
-cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+- title: General Information
+  type: map
+  contents:
+    - name: Name
+      value: Sung Yun Lee
+    - name: Languages
+      value: Korean, English
+    - name: Programming Language
+      value: Python (PyTorch), MATLAB, C/C++, LabVIEW, COMSOL
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+- title: Research Interests & Experimental Techniques
+  type: nested_list
+  contents:
+    - title: Research Interests
+      items:
+        - Dichroism in resonant X-ray diffraction
+        - Deep-learning-based data processing for coherent diffraction imaging
 
-  sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+    - title: Experimental Techniques
+      items:
+        - Coherent diffraction imaging & ptychography
+        - Resonant X-ray diffraction
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Physics
+      institution: Pohang University of Science and Technology
+      location: Pohang, KR
+      year: 2025
+      description:
+        - "Mar, 2020 - Aug, 2025"
+        - "Thesis: Development of functional coherent X-ray nanoimaging with deep-learning methods"
+        - "Advisor: Prof. Changyong Song"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+    - title: B.Sc. in Physics, Minor in Electrical Engineering
+      institution: Pohang University of Science and Technology
+      location: Pohang, KR
+      year: 2020
+      description:
+        - "Mar, 2016 - Feb, 2020"
+        - "Thesis: A Comprehensive Evaluation of the Process of Copying a Complex Figure in Early- and Late-Onset Alzheimer Disease"
+        - "Advisor: Prof. Jee Hyun Choi (Korea Institute of Science and Technology) & Prof. Changyong Song"
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+- title: Research & Work Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral Researcher
+      institution: Max Planck POSTECH/Korea Research Initiative
+      location: Pohang, KR
+      year: 2025
+      description:
+        - Sep, 2025 - Current
+        - "Center for Ultrafast Science on Quantum Matter (PI: Prof. Changyong Song)"
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+    - title: Participating Researcher (as a graduate student)
+      institution: Pohang University of Science and Technology
+      location: Pohang, KR
+      year: 2020
+      description:
+        - Mar, 2020 - Aug, 2025
+        - "Femtosecond X-ray Diffraction & Imaging Laboratory, Department of Physics (PI: Prof. Changyong Song)"
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+    - title: Undergraduate Researcher
+      institution: Pohang University of Science and Technology
+      location: Pohang, KR
+      year: 2019
+      description:
+        - Mar, 2019 - Feb, 2020
+        - "Femtosecond X-ray Diffraction & Imaging Laboratory, Department of Physics (PI: Prof. Changyong Song)"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+    - title: Intern
+      institution: Netmarble Corp.
+      location: Seoul, KR
+      year: 2019
+      description:
+        - Jun - Aug, 2019
+        - Machine Learning Team, Columbus Center
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    - title: Research Trainee
+      institution: Brain Science Institute, Korea Institute of Science and Technology
+      location: Seoul, KR
+      year: 2018
+      description:
+        - Jun - Aug, 2018
+        - "Convergence Research Center for Diagnosis, Treatment and Care System of Dementia (PI: Prof. Jee Hyun Choi)"
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+    - title: Intern
+      institution: Dawonsys Co., Ltd.
+      location: Ansan, KR
+      year: 2017
+      description:
+        - Jun - Aug, 2017
+        - Accelerator PnA Team, Accelerator Business Division
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant
+      institution: Pohang University of Science and Technology
+      location: Pohang, KR
+      year: 2021
+      description:
+        - 2021 Fall
+        - "PHYS199: Freshman Research Participation"
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    - title: Teaching Assistant
+      institution: Pohang University of Science and Technology
+      location: Pohang, KR
+      year: 2021
+      description:
+        - 2021 Spring
+        - "PHYS103: General Physics Laboratory I"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+    - title: Teaching Assistant
+      institution: Pohang University of Science and Technology
+      location: Pohang, KR
+      year: 2020
+      description:
+        - 2020 Fall
+        - "PHYS250: Physics Laboratory I"
 
-      - name: English
-        summary: "Fluent"
+    - title: Student Mentoring Program (SMP)
+      institution: Pohang University of Science and Technology
+      location: Pohang, KR
+      year: 2019
+      description:
+        - 2019 Fall
+        - "CSED101: Programming & Problem Solving"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    - title: Student Mentoring Program (SMP)
+      institution: Pohang University of Science and Technology
+      location: Pohang, KR
+      year: 2018
+      description:
+        - 2018 Fall
+        - "CSED101: Programming & Problem Solving"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    - title: Student Mentoring Program (SMP)
+      institution: Pohang University of Science and Technology
+      location: Pohang, KR
+      year: 2018
+      description:
+        - 2018 Spring
+        - "PHYS101: General Physics I"
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    - title: The 13th University Student Knowledge Volunteering KOSAF Camp
+      institution: Korea Student Aid Foundation
+      location: Uiryeong, KR
+      year: 2016
+      description:
+        - Aug, 2016
+        - "Jeonggok Middle School (Topic: Tessellation & Four color theorem)"
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+- title: Hornors & Awards
+  type: time_table
+  contents:
+    - title: Graduate Student Excellent Paper Award
+      institution: Korean Synchrotron Radiation Users' Association
+      year: 2024
+      description: Physical Review Research 2021, ACS Nano 2023, ACS Photonics 2024
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    - title: POSTECHIAN Fellowship - Innovation
+      institution: Pohang University of Science and Technology
+      year: 2024
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    - title: Graduate Student Excellent Paper Award
+      institution: Pohang University of Science and Technology
+      year: 2023
+      description: ACS Nano 2023
+
+    - title: Best Poster Award
+      institution: Korean Synchrotron Radiation Users' Association
+      year: 2023
+      description: The 35th Synchrotron Radiation Users' Workshop
+
+    - title: Best Poster Award
+      institution: Korean Synchrotron Radiation Users' Association
+      year: 2023
+      description: The 3rd PAL-XFEL Users' Meeting
+
+    - title: Best Poster Award
+      institution: Korean Synchrotron Radiation Users' Association
+      year: 2022
+      description: The 34th Synchrotron Radiation Users' Workshop
+
+    - title: Graduate Student Excellent Teaching Assistant Award
+      institution: Pohang University of Science and Technology
+      year: 2020
+      description: "PHYS250: Physics Laboratory I"
+
+    - title: BK21 First Paper Award
+      institution: Pohang University of Science and Technology
+      year: 2020
+      description: Journal of Medical Internet Research 2020
+
+    - title: Best Bechelor's Thesis Award
+      institution: Pohang University of Science and Technology
+      year: 2019
+
+    - title: Presidential Science Scholarship
+      institution: Ministry of Science, ICT and Future Planning
+      year: 2016
+
+
+- title: Publications
+  type: time_table
+  contents:
+  - title: "Surface-plasmon control of ultrafast energy-relaxation modes in photoexcited Au nanorods probed by time-resolved single-particle X-ray imaging"
+    year: 2025
+    description: "Eunyoung Park†, Chulho Jung†, Junha Hwang, Jaeyong Shin, Sung Yun Lee, Heemin Lee, Seung-Phil Heo, Daewoong Nam, Sangsoo Kim, Min Seok Kim, Kyung Sook Kim, In Tae Eom, Do Young Noh, Yungok Ihm, and Changyong Song*, Nature Communications 16, 9876 (2025)."
+
+  - title: "Frustrated phonon with charge density wave in vanadium Kagome metal"
+    year: 2025
+    description: "Seung-Phil Heo, Choongjae Won, Heemin Lee, Hanbyul Kim, Eunyoung Park, Sung Yun Lee, Junha Hwang, Hyeongi Choi, Sang-Youn Park, Byungjune Lee, Woo-Suk Noh, Hoyoung Jang, Jae-Hoon Park, Dongbin Shin*, and Changyong Song*, Nature Communications 16, 4861 (2025)."
+
+  - title: "Deep-learning real-time phase retrieval of imperfect diffraction patterns from X-ray free-electron lasers"
+    year: 2025
+    description: "Sung Yun Lee, Do Hyung Cho, Chulho Jung, Daeho Sung, Daewoong Nam, Sangsoo Kim, and Changyong Song*, npj Computational Materials 11, 68 (2025)."
+
+  - title: "Development of the Nanobeam X-ray Experiments instrument at PAL-XFEL"
+    year: 2025
+    description: "Jangwoo Kim†, HyoJung Hyun†, Seonghan Kim, Sun Min Hwang, Myong-Jin Kim, Dogeun Jang, Kyung Sook Kim, Jaeyong Shin, Sejin Kim, Junha Hwang, Sung Yun Lee, Eunyoung Park, Sangsoo Kim, Intae Eom, Changyong Song, and Daewoong Nam*, Journal of Synchrotron Radiation 32(2), 466-473 (2025)."
+
+  - title: "Off-Axis X-Ray Vortex Beam Ptychography"
+    year: 2024
+    description: "Sung Yun Lee, Eunyoung Park, Sinwoo Kim, Euije Jo, Su Yong Lee, Jun Woo Choi, and Changyong Song*, ACS Photonics 11(9), 3804-3810 (2024)."
+
+  - title: "Inverted nucleation for photoinduced nonequilibrium melting"
+    year: 2024
+    description: "Junha Hwang†, Yungok Ihm†, Daewoong Nam, Jaeyong Shin, Eunyoung Park, Sung Yun Lee, Heemin Lee, Seung-Phil Heo, Sangsoo Kim, Je Young Ahn, Ji Hoon Shim, Minseok Kim, Intae Eom, Do Young Noh, and Changyong Song*, Science Advances 10(18), eadl6409 (2024)."
+
+  - title: "Development of the multiplex imaging chamber at PAL-XFEL"
+    year: 2024
+    description: "Junha Hwang, Sejin Kim, Sung Yun Lee, Eunyoung Park, Jaeyong Shin, Jae Hyuk Lee, Myong-jin Kim, Seonghan Kim, Sang-Youn Park, Dogeun Jang, Intae Eom, Sangsoo Kim, Changyong Song, Kyung Sook Kim*, and Daewoong Nam*, Journal of Synchrotron Radiation 31(3), 469-477 (2024)."
+
+  - title: "Nanoscale Three-Dimensional Network Structure of a Mesoporous Particle Unveiled via Adaptive Multidistance Coherent X-ray Tomography"
+    year: 2023
+    description: "Sung Yun Lee†, Do Hyung Cho†, Sung Chan Song†, Jaeyong Shin, Junha Hwang, Eunyoung Park, Su Yong Lee, Seongseop Kim, Jinwoo Lee, and Changyong Song*, ACS Nano 17(22), 22488-22498 (2023)."
+
+  - title: "Denoising low-intensity diffraction signals using k-space deep learning: Applications to phase recovery"
+    year: 2021
+    description: "Sung Yun Lee, Do Hyung Cho, Chulho Jung, Daeho Sung, Daewoong Nam, Sangsoo Kim, and Changyong Song*, Physical Review Research 3(4), 043066 (2021)."
+
+  - title: "High-Throughput 3D Ensemble Characterization of Individual Core-Shell Nanoparticles with X-ray Free Electron Laser Single-Particle Imaging"
+    year: 2021
+    description: "Do Hyung Cho†, Zhou Shen†, Yungok Ihm, Dae Han Wi, Chulho Jung, Daewoong Nam, Sangsoo Kim, Sang-Youn Park, Kyung Sook Kim, Daeho Sung, Heemin Lee, Jae-Yong Shin, Junha Hwang, Sung Yun Lee, Su Yong Lee, Sang Woo Han, Do Young Noh, N. Duane Loh*, and Changyong Song*, ACS Nano 15(3), 4066-4076 (2021)."
+
+  - title: "A Comprehensive Evaluation of the Process of Copying a Complex Figure in Early- and Late-Onset Alzheimer Disease: A Quantitative Analysis of Digital Pen Data"
+    year: 2020
+    description: "Ko Woon Kim†, Sung Yun Lee†, Jongdoo Choi, Juhee Chin, Byung Hwa Lee, Duk L. Na*, and Jee Hyun Choi*, Journal of Medical Internet Research 22(8), e18136 (2020)."
+
+  - title: "Detecting Abuser Group in MMORPG by using Ranking System based on Game Transaction Network"
+    year: 2019
+    description: "Sungyun Lee*, Sunghun Kim, Inhae Seok, and Mincheol Kim, In Proceedings of the Korea Software Congress, 584-586 (KIISE, 2019)."
+
+
+- title: Patents
+  type: time_table
+  contents:
+  - title: "Apparatus and Method of Processing Image Copying Test for Evaluating Cognitive Impairment, and Computer Readable Recording Medium"
+    year: 2021
+    description: "KR, Registration; #10-2338071-00-00 (Dec, 2021)."
+
+  - title: "METHOD FOR GAME DATA PROCESSING"
+    year: 2021
+    description: "KR, Registration; #10-2333941-00-00 (Nov, 2021)."
+    
+
+- title: Poster & Oral Presentations
+  type: time_table
+  contents:
+  - title: The 37th Synchrotron Radiation Users' Workshop (Oral, as an invited talk)
+    location: Pohang, KR
+    institution: Korean Synchrotron Radiation User's Association
+    year: 2025
+    description:
+      - "Title: Deep learning and phase retrieval for coherent diffraction imaging"
+  
+  - title: The 5th PAL-XFEL Users' Meeting (Oral, as an invited student talk)
+    location: Pohang, KR
+    institution: Korean Synchrotron Radiation User's Association
+    year: 2025
+    description:
+      - "Title: Deep learning for coherent diffraction imaging using XFELs"
+
+  - title: The 36th Synchrotron Radiation Users' Workshop (Poster)
+    location: Pohang, KR
+    institution: Korean Synchrotron Radiation User's Association
+    year: 2024
+    description:
+      - "Title: Off-axis X-ray vortex beam ptychography"
+
+  - title: APS March Meeting 2024 (Oral)
+    location: Minneapolis, US
+    institution: American Physical Society
+    year: 2024
+    description:
+      - "Title: Nanoscale X-ray Tomography of Mesoporous Particle Improved via Adaptive Multidistance Coherent Diffraction Imaging"
+
+  - title: The 35th Synchrotron Radiation Users' Workshop (Poster)
+    location: Pohang, KR
+    institution: Korean Synchrotron Radiation User's Association
+    year: 2023
+    description:
+      - "Title: Network analysis of pore structure inside mesoporous particle revealed by multi-distance coherent X-ray tomography"
+
+  - title: 2023 KPS Fall Meeting (Poster)
+    location: Changwon, KR
+    institution: Korean Physical Society
+    year: 2023
+    description:
+      - "Title: Nanoscale three-dimensional network structure of a mesoporous particle unveiled via adaptive multi-distance coherent X-ray tomography"
+
+  - title: The 3rd PAL-XFEL Users' Meeting (Poster)
+    location: Pohang, KR
+    institution: Korean Synchrotron Radiation User's Association
+    year: 2023
+    description:
+      - "Title: Deep-Learning-Based Denoiser for Phase Recovery of Singe-Shot Diffraction Signals via X-ray Free Electron Laser"
+
+  - title: The 34th Synchrotron Radiation Users' Workshop (Poster)
+    location: Pohang, KR
+    institution: Korean Synchrotron Radiation User's Association
+    year: 2022
+    description:
+      - "Title: Multi-distance Coherent Diffraction Imaging for Super-resolution X-ray Microscopy"
+
+  - title: 2021 KPS Fall Meeting (Poster)
+    location: Virtual
+    institution: Korean Physical Society
+    year: 2021
+    description:
+      - "Title: Deep-Learning-Based Denoiser for Phase Recovery of Single-Shot Diffraction Patterns Using XFEL"
+
+  - title: The 32nd Synchrotron Radiation Users' Workshop (Poster)
+    location: Pohang, KR
+    institution: Korean Synchrotron Radiation User's Association
+    year: 2020
+    description:
+      - "Title: Low Intensity Phase Retrieval Enhanced by Deep Neural Network"
+
+  - title: Korea Software Congress 2019 (Poster)
+    location: Pyeongchang, KR
+    institution: Korean Institute of Information Scientists and Engineers
+    year: 2019
+    description:
+      - "Title: Detecting Abuser Group in MMORPG by using Ranking System based on Game Transaction Network"
