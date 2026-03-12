@@ -30,7 +30,7 @@ cv:
         position: Postdoctoral Researcher
         location: Pohang, KR
         start_date: 2025-09
-        end_date: Current
+        end_date: 2026-08
         summary: "Principal investigator: Prof. Changyong Song"
 
       - company: Femtosecond X-ray Diffraction & Imaging Laboratory, Department of Physics, Pohang University of Science and Technology
@@ -96,54 +96,66 @@ cv:
           - Jeonggok Middle School
           - Topic: Tessellation & Four-color theorem
 
-    Awards:
+    Honors & Awards:
       - title: Graduate Student Excellent Paper Award
+        authors: ""
         date: 2024
         awarder: Korean Synchrotron Radiation User's Association
 
       - title: POSTECHIAN Fellowship – Innovation
+        authors: ""
         date: 2024
         awarder: Pohang University of Science and Technology
 
       - title: Graduate Student Excellent Paper Award
+        authors: ""
         date: 2023
         awarder: Department of Physics, Pohang University of Science and Technology
 
       - title: Best Poster Award (The 35th Synchrotron Radiation Users' Workshop)
+        authors: ""
         date: 2023
         awarder: Korean Synchrotron Radiation User's Association
 
       - title: Best Poster Award (The 3rd PAL-XFEL Users' Meeting)
+        authors: ""
         date: 2023
         awarder: Korean Synchrotron Radiation User's Association
 
       - title: Best Poster Award (The 34th Synchrotron Radiation Users' Workshop)
+        authors: ""
         date: 2022
         awarder: Korean Synchrotron Radiation User's Association
 
       - title: Graduate Student Excellent Teaching Assistant Award
+        authors: ""
         date: 2020
         awarder: Department of Physics, Pohang University of Science and Technology
         
       - title: BK21 First Paper Award
+        authors: ""
         date: 2020
         awarder: Department of Physics, Pohang University of Science and Technology
         
       - title: Best Bachelor’s Thesis Award
+        authors: ""
         date: 2019
         awarder: Department of Physics, Pohang University of Science and Technology
 
       - title: Presidential Science Scholarship
+        authors: ""
         date: 2016
         awarder: Ministry of Science, ICT, and Future Planning
 
     Patents:
       - title: Apparatus and Method of Processing Image Copying Test for Evaluating Cognitive Impairment, and Computer Readable Recording Medium
+        authors: Jee Hyun Choi, Ko Woon Kim, Duk L. Na, Sung Yun Lee, Jongdoo Choi, Hiobeen Han
         date: 2021-12-09
         awarder: Republic of Korea
         summary: Registration No. 10-2338071-00-00
 
       - title: METHOD FOR GAME DATA PROCESSING
+        authors: Sungyun Lee, Sunghun Kim, Mincheol Kim, Inhae Seok
         date: 2021-11-29
         awarder: Republic of Korea
         summary: Registration No. 10-2333941-00-00
@@ -189,7 +201,7 @@ cv:
         publisher: ACS Nano 17(22), 22488–22498
         releaseDate: 2023
 
-      - title: Denoising low-intensity diffraction signals using k-space deep learning: Applications to phase recovery
+      - title: "Denoising low-intensity diffraction signals using k-space deep learning: Applications to phase recovery"
         authors: Sung Yun Lee, Do Hyung Cho, Chulho Jung, Daeho Sung, Daewoong Nam, Sangsoo Kim, Changyong Song*
         publisher: Physical Review Research 3(4), 043066
         releaseDate: 2021
