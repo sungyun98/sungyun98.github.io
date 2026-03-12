@@ -11,7 +11,7 @@ settings:
     png_path: ../assets/rendercv/rendercv_output/NAME_IN_SNAKE_CASE_CV.png
     dont_generate_markdown: true
     dont_generate_html: true
-    dont_generate_typst: false # typst generation is required for pdf output
-    dont_generate_pdf: false
+    dont_generate_typst: true # typst generation is required for pdf output
+    dont_generate_pdf: true
     dont_generate_png: true
   bold_keywords: []
