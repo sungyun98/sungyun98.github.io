@@ -9,9 +9,9 @@ profile:
   image: profile_rev.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>  Tel: +82-54-279-2688</p>
-    <p>  #3-504, Eng. Bldg.</p>
-    <p>  Pohang 37673, KR</p>
+    <p class='center-text'>Tel: +82-54-279-2688</p>
+    <p class='center-text'>#3-504, Eng. Bldg.</p>
+    <p class='center-text'>Pohang 37673, KR</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -32,3 +32,5 @@ Hello! My name is Sung Yun Lee, and I'm a postdoctoral researcher at Center for 
 I'm currently working on functional X-ray measurements using hard X-ray vortex beam.
 
 I also have an interest on AI models dealing with diffraction data.
+
+Please feel free to contact me if you have any questions.
