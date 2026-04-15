@@ -1,56 +1,63 @@
 metadata:
-  last_updated: '2026-03-12'
+  last_updated: '2026-04-08'
 papers:
-  MHnfJY0AAAAJ:d1gkVwhDpl0C:
-    citations: 0
-    title: "Detecting Abuser Group in MMORPG by using Ranking System based on Game Transaction Network"
-    year: '2019'
-  MHnfJY0AAAAJ:u5HHmVD_uO8C:
-    citations: 32
-    title: "A comprehensive evaluation of the process of copying a complex figure in early-and late-onset Alzheimer disease: a quantitative analysis of digital pen data"
-    year: '2020'
-  MHnfJY0AAAAJ:u-x6o8ySG0sC:
-    citations: 30
-    title: "High-throughput 3d ensemble characterization of individual core–shell nanoparticles with x-ray free electron laser single-particle imaging"
-    year: '2021'
-  MHnfJY0AAAAJ:9yKSN-GCB0IC:
-    citations: 19
-    title: "Denoising low-intensity diffraction signals using k-space deep learning: Applications to phase recovery"
-    year: '2021'
   MHnfJY0AAAAJ:2osOgNQ5qMEC:
     citations: 1
-    title: "Nanoscale three-dimensional network structure of a mesoporous particle unveiled via adaptive multidistance coherent x-ray tomography"
+    title: Nanoscale three-dimensional network structure of a mesoporous particle unveiled via adaptive multidistance coherent x-ray tomography
     year: '2023'
-  MHnfJY0AAAAJ:UeHWp8X0CEIC:
-    citations: 2
-    title: "Development of the multiplex imaging chamber at PAL-XFEL"
-    year: '2024'
+  MHnfJY0AAAAJ:9yKSN-GCB0IC:
+    citations: 19
+    title: 'Denoising low-intensity diffraction signals using -space deep learning: Applications to phase recovery'
+    year: '2021'
   MHnfJY0AAAAJ:IjCSPb-OGe4C:
-    citations: 9
-    title: "Inverted nucleation for photoinduced nonequilibrium melting"
-    year: '2024'
-  MHnfJY0AAAAJ:zYLM7Y9cAGgC:
-    citations: 4
-    title: "Off-axis X-ray vortex beam ptychography"
+    citations: 10
+    title: Inverted nucleation for photoinduced nonequilibrium melting
     year: '2024'
   MHnfJY0AAAAJ:LkGwnXOMwfcC:
     citations: 0
-    title: "Development of functional coherent X-ray nanoimaging with deep-learning methods"
+    title: Development of functional coherent X-ray nanoimaging with deep-learning methods
     year: '2025'
   MHnfJY0AAAAJ:Tyk-4Ss8FVUC:
     citations: 3
-    title: "Development of the Nanobeam X-ray Experiments instrument at PAL-XFEL"
+    title: Development of the Nanobeam X-ray Experiments instrument at PAL-XFEL
     year: '2025'
+  MHnfJY0AAAAJ:UeHWp8X0CEIC:
+    citations: 2
+    title: Development of the multiplex imaging chamber at PAL-XFEL
+    year: '2024'
   MHnfJY0AAAAJ:W7OEmFMy1HYC:
-    citations: 5
-    title: "Deep-learning real-time phase retrieval of imperfect diffraction patterns from X-ray free-electron lasers"
+    citations: 7
+    title: Deep-learning real-time phase retrieval of imperfect diffraction patterns from X-ray free-electron lasers
     year: '2025'
   MHnfJY0AAAAJ:YsMSGLbcyi4C:
     citations: 0
-    title: "Frustrated phonon with charge density wave in vanadium Kagome metal"
+    title: Frustrated phonon with charge density wave in vanadium Kagome metal
     year: '2025'
+  MHnfJY0AAAAJ:d1gkVwhDpl0C:
+    citations: 0
+    title: "\uAC70\uB798 \uB124\uD2B8\uC6CC\uD06C \uAE30\uBC18 \uC21C\uC704 \uC2DC\uC2A4\uD15C\uC744 \uC774\uC6A9\uD55C \uC791\uC5C5\uC7A5 \uD0D0\uC9C0"
+    year: '2019'
   MHnfJY0AAAAJ:eQOLeE2rZwMC:
     citations: 0
-    title: "Surface-plasmon control of ultrafast energy-relaxation modes in photoexcited Au nanorods probed by time-resolved single-particle X-ray imaging"
+    title: Surface-plasmon control of ultrafast energy-relaxation modes in photoexcited Au nanorods probed by time-resolved single-particle X-ray imaging
     year: '2025'
-  
+  MHnfJY0AAAAJ:qjMakFHDy7sC:
+    citations: 0
+    title: Nanoscale X-ray Tomography of Mesoporous Particle Improved via Adaptive Multidistance Coherent Diffraction Imaging
+    year: '2024'
+  MHnfJY0AAAAJ:u-x6o8ySG0sC:
+    citations: 30
+    title: "High-throughput 3d ensemble characterization of individual core\u2013shell nanoparticles with x-ray free electron laser single-particle imaging"
+    year: '2021'
+  MHnfJY0AAAAJ:u5HHmVD_uO8C:
+    citations: 33
+    title: 'A comprehensive evaluation of the process of copying a complex figure in early-and late-onset Alzheimer disease: a quantitative analysis of digital pen data'
+    year: '2020'
+  MHnfJY0AAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: Hidden dormant phase mediating the glass transition in disordered matter
+    year: '2024'
+  MHnfJY0AAAAJ:zYLM7Y9cAGgC:
+    citations: 4
+    title: Off-axis X-ray vortex beam ptychography
+    year: '2024'
