@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-17'
+  last_updated: '2026-05-11'
 papers:
   MHnfJY0AAAAJ:2osOgNQ5qMEC:
-    citations: 2
+    citations: 3
     title: Nanoscale three-dimensional network structure of a mesoporous particle unveiled via adaptive multidistance coherent x-ray tomography
     year: '2023'
   MHnfJY0AAAAJ:9yKSN-GCB0IC:
@@ -18,7 +18,7 @@ papers:
     title: Development of functional coherent X-ray nanoimaging with deep-learning methods
     year: '2025'
   MHnfJY0AAAAJ:Tyk-4Ss8FVUC:
-    citations: 3
+    citations: 4
     title: Development of the Nanobeam X-ray Experiments instrument at PAL-XFEL
     year: '2025'
   MHnfJY0AAAAJ:UeHWp8X0CEIC:
@@ -26,11 +26,11 @@ papers:
     title: Development of the multiplex imaging chamber at PAL-XFEL
     year: '2024'
   MHnfJY0AAAAJ:W7OEmFMy1HYC:
-    citations: 7
+    citations: 8
     title: Deep-learning real-time phase retrieval of imperfect diffraction patterns from X-ray free-electron lasers
     year: '2025'
   MHnfJY0AAAAJ:YsMSGLbcyi4C:
-    citations: 0
+    citations: 1
     title: Frustrated phonon with charge density wave in vanadium Kagome metal
     year: '2025'
   MHnfJY0AAAAJ:d1gkVwhDpl0C:
