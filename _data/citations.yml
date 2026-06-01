@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-06-01'
 papers:
   MHnfJY0AAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -30,7 +30,7 @@ papers:
     title: Deep-learning real-time phase retrieval of imperfect diffraction patterns from X-ray free-electron lasers
     year: '2025'
   MHnfJY0AAAAJ:YsMSGLbcyi4C:
-    citations: 1
+    citations: 2
     title: Frustrated phonon with charge density wave in vanadium Kagome metal
     year: '2025'
   MHnfJY0AAAAJ:d1gkVwhDpl0C:
@@ -62,6 +62,6 @@ papers:
     title: Hidden dormant phase mediating the glass transition in disordered matter
     year: '2024'
   MHnfJY0AAAAJ:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 5
     title: Off-axis X-ray vortex beam ptychography
     year: '2024'
