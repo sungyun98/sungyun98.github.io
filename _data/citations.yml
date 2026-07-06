@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-06'
 papers:
   MHnfJY0AAAAJ:2osOgNQ5qMEC:
     citations: 3
     title: Nanoscale three-dimensional network structure of a mesoporous particle unveiled via adaptive multidistance coherent x-ray tomography
     year: '2023'
   MHnfJY0AAAAJ:9yKSN-GCB0IC:
-    citations: 19
+    citations: 20
     title: 'Denoising low-intensity diffraction signals using -space deep learning: Applications to phase recovery'
     year: '2021'
   MHnfJY0AAAAJ:IjCSPb-OGe4C:
@@ -50,11 +50,11 @@ papers:
     title: Improved image reconstruction in coherent diffraction imaging using self-seeded XFEL pulses
     year: '2026'
   MHnfJY0AAAAJ:u-x6o8ySG0sC:
-    citations: 31
+    citations: 32
     title: "High-throughput 3d ensemble characterization of individual core\u2013shell nanoparticles with x-ray free electron laser single-particle imaging"
     year: '2021'
   MHnfJY0AAAAJ:u5HHmVD_uO8C:
-    citations: 35
+    citations: 36
     title: 'A comprehensive evaluation of the process of copying a complex figure in early-and late-onset Alzheimer disease: a quantitative analysis of digital pen data'
     year: '2020'
   MHnfJY0AAAAJ:ufrVoPGSRksC:
