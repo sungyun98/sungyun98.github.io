@@ -59,6 +59,9 @@ jobs:
           else
             echo "❌ Citation update script failed with exit code $status (started at $start_time, ended at $end_time)."
             echo "❌ Citation update script failed with exit code $status." >> $GITHUB_STEP_SUMMARY
+            # annotation shows on the run page without failing the job (Scholar often blocks runner IPs)
+            if [ $status -eq 124 ]; then reason="timed out after 90 s (Google Scholar likely blocked the runner)"; else reason="exited with code $status"; fi
+            echo "::warning title=Citations not updated::update_scholar_citations.py $reason; _data/citations.yml was left unchanged."
           fi
           set -e
 
