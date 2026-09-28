@@ -1,0 +1,28 @@
+# Jekyll build output and caches
+_site
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+
+# Ruby / Bundler
+.bundle
+.ruby-version
+vendor
+
+# Node
+node_modules/
+
+# Python (bin/update_scholar_citations.py)
+.venv
+__pycache__/
+*.pyc
+
+# Libraries downloaded when third_party_libraries.download is true
+assets/libs/
+
+# Report written by `bundle exec al-folio upgrade audit`
+al-folio-upgrade-report.md
+
+# Editor / OS files
+.idea
+.DS_Store
