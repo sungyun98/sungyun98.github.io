@@ -13,13 +13,14 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
-        # See docs/CUSTOMIZE.md for details on how to set up PAT for triggering subsequent workflows
+        uses: actions/checkout@v7
+        # PAT (not GITHUB_TOKEN) so the citations commit triggers the deploy workflow;
+        # setup: https://github.com/alshedivat/al-folio/blob/main/docs/CUSTOMIZE.md
         with:
           token: ${{ secrets.PAT }}
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v7
         with:
           python-version: "3.13"
 
