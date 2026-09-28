@@ -1,2 +1,4 @@
+# bibtexparser 2.x removed the bibdatabase module that scholarly 1.7.x imports
+bibtexparser<2
 pyyaml
 scholarly
